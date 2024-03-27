@@ -1,5 +1,5 @@
 {
-  "name": "@hswolff/github-package-demo",
+  "name": "@bhagyakote/github-package-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "repository": {
-    "url": "git://github.com/hswolff/@hswolff/github-package-demo.git"
+    "url": "git://github.com/hswolff/@bhagyakote/github-package-demo.git"
   }
 
   "license": "ISC"
